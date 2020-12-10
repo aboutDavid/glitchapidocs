@@ -3,11 +3,11 @@
   "id": "project-get-project",
   "isDocsHomePage": false,
   "title": "Get a project",
-  "description": "Description:",
+  "description": "Get a project using its domain.",
   "source": "@site/docs/project-get-project.md",
   "slug": "/project/get-project",
   "permalink": "/docs/project/get-project",
-  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/website/docs/project-get-project.md",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/project-get-project.md",
   "version": "current",
   "sidebar_label": "Get a project",
   "sidebar": "someSidebar",
@@ -16,7 +16,7 @@
     "permalink": "/docs/"
   },
   "next": {
-    "title": "Search for user",
-    "permalink": "/docs/users/search"
+    "title": "Get a project's README",
+    "permalink": "/docs/project/get-project-readme"
   }
 }

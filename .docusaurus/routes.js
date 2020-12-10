@@ -39,7 +39,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','604'),
+  component: ComponentCreator('/docs','a9d'),
   
   routes: [
 {
@@ -50,6 +50,21 @@ export default [
 {
   path: '/docs/project/get-project',
   component: ComponentCreator('/docs/project/get-project','59a'),
+  exact: true,
+},
+{
+  path: '/docs/project/get-project-readme',
+  component: ComponentCreator('/docs/project/get-project-readme','fc4'),
+  exact: true,
+},
+{
+  path: '/docs/users/get-user-by-id',
+  component: ComponentCreator('/docs/users/get-user-by-id','7a0'),
+  exact: true,
+},
+{
+  path: '/docs/users/get-user-by-login',
+  component: ComponentCreator('/docs/users/get-user-by-login','5f7'),
   exact: true,
 },
 {

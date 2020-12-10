@@ -4,8 +4,6 @@ sidebar_label: Get a project
 slug: /project/get-project
 id: project-get-project
 ---
-
-### Description:
 Get a project using its domain.
 
 ### Endpoint

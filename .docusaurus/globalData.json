@@ -16,8 +16,23 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "project-get-project-readme",
+              "path": "/docs/project/get-project-readme",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "readme",
               "path": "/docs/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "user-get-user-by-id",
+              "path": "/docs/users/get-user-by-id",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "user-get-user-by-login",
+              "path": "/docs/users/get-user-by-login",
               "sidebar": "someSidebar"
             },
             {

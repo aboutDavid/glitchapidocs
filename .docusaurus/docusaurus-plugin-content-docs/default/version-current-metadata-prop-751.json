@@ -26,6 +26,11 @@
             "type": "link",
             "label": "Get a project",
             "href": "/docs/project/get-project"
+          },
+          {
+            "type": "link",
+            "label": "Get a project's README",
+            "href": "/docs/project/get-project-readme"
           }
         ]
       },
@@ -38,6 +43,16 @@
             "type": "link",
             "label": "Search for user",
             "href": "/docs/users/search"
+          },
+          {
+            "type": "link",
+            "label": "Get a user by login",
+            "href": "/docs/users/get-user-by-login"
+          },
+          {
+            "type": "link",
+            "label": "Get a user by ID",
+            "href": "/docs/users/get-user-by-id"
           }
         ]
       }
@@ -45,7 +60,10 @@
   },
   "permalinkToSidebar": {
     "/docs/project/get-project": "someSidebar",
+    "/docs/project/get-project-readme": "someSidebar",
     "/docs/": "someSidebar",
+    "/docs/users/get-user-by-id": "someSidebar",
+    "/docs/users/get-user-by-login": "someSidebar",
     "/docs/users/search": "someSidebar"
   }
 }

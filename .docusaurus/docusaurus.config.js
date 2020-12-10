@@ -89,11 +89,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/runner/glitchapidocs/sidebars.js",
-          "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/website/"
+          "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/website/blog/"
+          "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/"
         },
         "theme": {
           "customCss": "/home/runner/glitchapidocs/src/css/custom.css"

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "user-get-user-by-login",
+  "id": "user-get-user-by-login",
+  "isDocsHomePage": false,
+  "title": "Get a user by login",
+  "description": "This endpoint allows you to get a user by their login (username)",
+  "source": "@site/docs/user-get-user-by-login.md",
+  "slug": "/users/get-user-by-login",
+  "permalink": "/docs/users/get-user-by-login",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/user-get-user-by-login.md",
+  "version": "current",
+  "sidebar_label": "Get a user by login",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Search for user",
+    "permalink": "/docs/users/search"
+  },
+  "next": {
+    "title": "Get a user by ID",
+    "permalink": "/docs/users/get-user-by-id"
+  }
+}

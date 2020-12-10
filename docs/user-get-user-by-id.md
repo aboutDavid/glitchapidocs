@@ -1,17 +1,15 @@
 ---
-title: Get a user via login
-sidebar_label: Get a user via login
-slug: /users/get-user-login
-id: user-get-user-login
+title: Get a user by ID
+sidebar_label: Get a user by ID
+slug: /users/get-user-by-id
+id: user-get-user-by-id
 ---
-
-### Description:
 This endpoint allows you to get a user by their login (username)
 
 ### Endpoint
 
 ```
-/v1/users/by/login?login={username}
+/v1/users/by/id?id={id}
 ```
 
 ### Endpoint Methond
@@ -23,7 +21,7 @@ No.
 ### Sample response:
 ```json
 {
-   "aboutDavid":{
+   "8045597":{
       "isSupport":false,
       "isInfrastructureUser":false,
       "id":8045597,

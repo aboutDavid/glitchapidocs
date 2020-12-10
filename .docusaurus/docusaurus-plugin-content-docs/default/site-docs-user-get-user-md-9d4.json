@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-get-user-login",
+  "id": "user-get-user-login",
+  "isDocsHomePage": false,
+  "title": "Get a user via login",
+  "description": "Description:",
+  "source": "@site/docs/user-get-user.md",
+  "slug": "/users/get-user-login",
+  "permalink": "/docs/users/get-user-login",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/user-get-user.md",
+  "version": "current",
+  "sidebar_label": "Get a user via login",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Search for user",
+    "permalink": "/docs/users/search"
+  }
+}

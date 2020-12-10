@@ -7,7 +7,7 @@
   "source": "@site/docs/readme.md",
   "slug": "/",
   "permalink": "/docs/",
-  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/website/docs/readme.md",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/readme.md",
   "version": "current",
   "sidebar_label": "👀 Look over here!",
   "sidebar": "someSidebar",

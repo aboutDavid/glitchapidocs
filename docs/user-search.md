@@ -4,8 +4,6 @@ sidebar_label: Search for user
 slug: /users/search
 id: user-search
 ---
-
-### Description:
 This endpoint allows you to search for users.
 
 ### Endpoint

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "project-get-project-readme",
+  "id": "project-get-project-readme",
+  "isDocsHomePage": false,
+  "title": "Get a project's README",
+  "description": "Get a project's README.md via its domain.",
+  "source": "@site/docs/project-get-project-readme.md",
+  "slug": "/project/get-project-readme",
+  "permalink": "/docs/project/get-project-readme",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/project-get-project-readme.md",
+  "version": "current",
+  "sidebar_label": "Get a project's README",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Get a project",
+    "permalink": "/docs/project/get-project"
+  },
+  "next": {
+    "title": "Search for user",
+    "permalink": "/docs/users/search"
+  }
+}
