@@ -25,6 +25,16 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "turbobiscuit",
+      "name": "Turbo Biscuit",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55338035?v=4",
+      "profile": "http://trbo.dev",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ]
 }
