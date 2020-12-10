@@ -1,0 +1,14 @@
+{
+  "unversionedId": "main",
+  "id": "main",
+  "isDocsHomePage": false,
+  "title": "Welcome!",
+  "description": "Welcome to the Glitch API docs.",
+  "source": "@site/docs/main.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/aboutDavid/glitchapi/edit/master/website/docs/main.md",
+  "version": "current",
+  "sidebar_label": "Welcome!",
+  "sidebar": "someSidebar"
+}
