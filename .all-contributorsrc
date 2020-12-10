@@ -9,10 +9,9 @@
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
-  "commit": true,
+  "commit": false,
   "commitConvention": "none",
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "skipCi": true,
   "contributors": [
     {
@@ -23,6 +22,16 @@
       "contributions": [
         "projectManagement",
         "blog",
+        "content",
+        "doc"
+      ]
+    },
+    {
+      "login": "turbobiscuit",
+      "name": "Turbo Biscuit",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55338035?v=4",
+      "profile": "http://trbo.dev",
+      "contributions": [
         "content",
         "doc"
       ]
