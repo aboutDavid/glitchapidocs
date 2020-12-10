@@ -12,7 +12,7 @@ Get all projects in a collection
 /v1/collections/by/fullUrl/projects?orderKey=createdAt&orderDirection=ASC&fullUrl={username}/{collection_name}
 ```
 
-### Endpoint Methond
+### Endpoint Method
 `GET`
 
 ### Authentication required?

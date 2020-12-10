@@ -12,7 +12,7 @@ This endpoint allows you to search for users.
 /users/search?q={query}
 ```
 
-### Endpoint Methond
+### Endpoint Method
 `GET`
 
 ### Authentication required?

@@ -12,7 +12,7 @@ This endpoint allows you to get a user by their login (username)
 /v1/users/by/id?id={id}
 ```
 
-### Endpoint Methond
+### Endpoint Method
 `GET`
 
 ### Authentication required?

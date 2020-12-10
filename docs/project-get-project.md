@@ -12,7 +12,7 @@ Get a project using its domain.
 /projects/hello-markdown
 ```
 
-### Endpoint Methond
+### Endpoint Method
 `GET`
 
 ### Authentication required?

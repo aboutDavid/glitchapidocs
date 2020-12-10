@@ -12,7 +12,7 @@ Get a project's README.md via its domain.
 /projects/{project_domain}/readme
 ```
 
-### Endpoint Methond
+### Endpoint Method
 `GET`
 
 ### Authentication required?
