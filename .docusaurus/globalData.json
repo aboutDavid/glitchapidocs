@@ -8,11 +8,16 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "main",
+          "mainDocId": "readme",
           "docs": [
             {
-              "id": "main",
+              "id": "readme",
               "path": "/docs/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "user-search",
+              "path": "/docs/users/search",
               "sidebar": "someSidebar"
             }
           ]

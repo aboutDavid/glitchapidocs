@@ -8,18 +8,31 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Users",
+        "label": "Important Info",
         "items": [
           {
             "type": "link",
-            "label": "Welcome!",
+            "label": "👀 Look over here!",
             "href": "/docs/"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "User Endpoints",
+        "items": [
+          {
+            "type": "link",
+            "label": "Search for user",
+            "href": "/docs/users/search"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/": "someSidebar"
+    "/docs/": "someSidebar",
+    "/docs/users/search": "someSidebar"
   }
 }

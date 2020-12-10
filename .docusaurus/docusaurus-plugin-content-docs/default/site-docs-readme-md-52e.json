@@ -1,0 +1,18 @@
+{
+  "unversionedId": "readme",
+  "id": "readme",
+  "isDocsHomePage": false,
+  "title": "👀 Look over here!",
+  "description": "Welcome to the Glitch API docs.",
+  "source": "@site/docs/readme.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/aboutDavid/glitchapi/edit/master/website/docs/readme.md",
+  "version": "current",
+  "sidebar_label": "👀 Look over here!",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Search for user",
+    "permalink": "/docs/users/search"
+  }
+}

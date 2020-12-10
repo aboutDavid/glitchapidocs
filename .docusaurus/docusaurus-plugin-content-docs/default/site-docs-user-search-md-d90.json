@@ -1,0 +1,18 @@
+{
+  "unversionedId": "user-search",
+  "id": "user-search",
+  "isDocsHomePage": false,
+  "title": "Search for user",
+  "description": "Description:",
+  "source": "@site/docs/user-search.md",
+  "slug": "/users/search",
+  "permalink": "/docs/users/search",
+  "editUrl": "https://github.com/aboutDavid/glitchapi/edit/master/website/docs/user-search.md",
+  "version": "current",
+  "sidebar_label": "Search for user",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "👀 Look over here!",
+    "permalink": "/docs/"
+  }
+}

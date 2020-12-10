@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/welcome-to-the-blog",
+  "editUrl": "https://github.com/aboutDavid/glitchapi/edit/master/website/blog/blog/2020-12-9-welcome-to-the-blog.md",
+  "source": "@site/blog/2020-12-9-welcome-to-the-blog.md",
+  "description": "Welcome to the Glitch API blog! We post announcements from the Glitch Team and share intresting projects. You can also write for the blog by creating a new post here. Please see one of the existing posts here to get an idea of the layout of a post.",
+  "date": "2020-12-09T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "welcome",
+      "permalink": "/blog/tags/welcome"
+    },
+    {
+      "label": "glitch",
+      "permalink": "/blog/tags/glitch"
+    },
+    {
+      "label": "api",
+      "permalink": "/blog/tags/api"
+    }
+  ],
+  "title": "Welcome!",
+  "readingTime": 0.24,
+  "truncated": false
+}

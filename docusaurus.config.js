@@ -6,8 +6,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'glitchapi', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'aboutdavid', // Usually your GitHub org/user name.
+  projectName: 'glitchapidocs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Glitch API',

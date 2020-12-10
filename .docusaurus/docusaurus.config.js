@@ -6,8 +6,8 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "glitchapi",
-  "projectName": "docusaurus",
+  "organizationName": "aboutdavid",
+  "projectName": "glitchapidocs",
   "themeConfig": {
     "navbar": {
       "title": "Glitch API",
