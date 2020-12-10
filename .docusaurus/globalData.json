@@ -11,6 +11,11 @@
           "mainDocId": "readme",
           "docs": [
             {
+              "id": "project-get-project",
+              "path": "/docs/project/get-project",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "readme",
               "path": "/docs/",
               "sidebar": "someSidebar"

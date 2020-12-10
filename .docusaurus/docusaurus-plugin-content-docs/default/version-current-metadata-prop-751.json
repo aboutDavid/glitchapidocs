@@ -20,6 +20,18 @@
       {
         "collapsed": true,
         "type": "category",
+        "label": "Project Endpoints",
+        "items": [
+          {
+            "type": "link",
+            "label": "Get a project",
+            "href": "/docs/project/get-project"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
         "label": "User Endpoints",
         "items": [
           {
@@ -32,6 +44,7 @@
     ]
   },
   "permalinkToSidebar": {
+    "/docs/project/get-project": "someSidebar",
     "/docs/": "someSidebar",
     "/docs/users/search": "someSidebar"
   }

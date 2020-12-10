@@ -39,12 +39,17 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','a9f'),
+  component: ComponentCreator('/docs','604'),
   
   routes: [
 {
   path: '/docs/',
   component: ComponentCreator('/docs/','8db'),
+  exact: true,
+},
+{
+  path: '/docs/project/get-project',
+  component: ComponentCreator('/docs/project/get-project','59a'),
   exact: true,
 },
 {

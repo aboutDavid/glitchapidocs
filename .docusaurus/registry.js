@@ -3,6 +3,7 @@ export default {
   '0cd0dfa4': [() => import(/* webpackChunkName: '0cd0dfa4' */ "/home/runner/glitchapidocs/.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json"), "/home/runner/glitchapidocs/.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json", require.resolveWeak("/home/runner/glitchapidocs/.docusaurus/docusaurus-plugin-content-blog/default/blog-post-list-prop-default.json")],
   '17896441': [() => import(/* webpackChunkName: '17896441' */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
+  '4289c88d': [() => import(/* webpackChunkName: '4289c88d' */ "@site/docs/project-get-project.md"), "@site/docs/project-get-project.md", require.resolveWeak("@site/docs/project-get-project.md")],
   '52e2a80b': [() => import(/* webpackChunkName: '52e2a80b' */ "@site/docs/readme.md"), "@site/docs/readme.md", require.resolveWeak("@site/docs/readme.md")],
   '5e9f5e1a': [() => import(/* webpackChunkName: '5e9f5e1a' */ "@generated/docusaurus.config"), "@generated/docusaurus.config", require.resolveWeak("@generated/docusaurus.config")],
   '6875c492': [() => import(/* webpackChunkName: '6875c492' */ "@theme/BlogTagsPostsPage"), "@theme/BlogTagsPostsPage", require.resolveWeak("@theme/BlogTagsPostsPage")],

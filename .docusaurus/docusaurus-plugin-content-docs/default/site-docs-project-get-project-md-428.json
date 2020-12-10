@@ -1,0 +1,22 @@
+{
+  "unversionedId": "project-get-project",
+  "id": "project-get-project",
+  "isDocsHomePage": false,
+  "title": "Get a project",
+  "description": "Description:",
+  "source": "@site/docs/project-get-project.md",
+  "slug": "/project/get-project",
+  "permalink": "/docs/project/get-project",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/website/docs/project-get-project.md",
+  "version": "current",
+  "sidebar_label": "Get a project",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "👀 Look over here!",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Search for user",
+    "permalink": "/docs/users/search"
+  }
+}
