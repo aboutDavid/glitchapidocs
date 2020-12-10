@@ -1,20 +1,31 @@
 {
-   "projectName":"glitchapi",
-   "projectOwner":"aboutDavid",
-   "repoType":"github",
-   "repoHost":"https://github.com",
-   "files":[
-      "README.md"
-   ],
-   "imageSize":100,
-   "contributorsPerLine":7,
-   "contributorsSortAlphabetically":false,
-   "commit":true,
-   "commitConvention":"none",
-   "badgeTemplate":"[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-   "contributorTemplate":"<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-   "skipCi":"true",
-   "contributors":[
-      
-   ]
+  "projectName": "glitchapidocs",
+  "projectOwner": "aboutDavid",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "commit": true,
+  "commitConvention": "none",
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "aboutDavid",
+      "name": "David",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/62346025?v=4",
+      "profile": "https://aboutdavid.me",
+      "contributions": [
+        "projectManagement",
+        "blog",
+        "content",
+        "doc"
+      ]
+    }
+  ]
 }
