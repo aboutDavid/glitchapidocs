@@ -9,7 +9,7 @@ Get a project using its domain.
 ### Endpoint
 
 ```
-/projects/hello-markdown
+/projects/{project_domain}
 ```
 
 ### Endpoint Method
