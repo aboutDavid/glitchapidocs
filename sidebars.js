@@ -4,6 +4,6 @@ module.exports = {
     "Project Endpoints": ["project-get-project", "project-get-project-readme"],
     "User Endpoints": ["user-search", "user-get-user-by-login", "user-get-user-by-id"],
     "Collection Endpoints": ["collection-get-all-projects"],
-    "Editor Websocket API": ["editor-readme","editor-get-realtime-logs-for-a-project"]
+    "Editor Endpoints": ["editor-readme","editor-get-realtime-logs-for-a-project", "editor-get-project-terminal"]
   },
 };
