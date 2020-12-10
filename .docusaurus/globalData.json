@@ -16,6 +16,11 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "editor-get-project-terminal",
+              "path": "/docs/editor/get-project-terminal",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "editor-get-realtime-logs-for-a-project",
               "path": "/docs/editor/get-realtime-logs-for-a-project",
               "sidebar": "someSidebar"

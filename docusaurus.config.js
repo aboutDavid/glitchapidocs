@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Glitch API Docs',
   tagline: 'Unofficial API docs for Glitch.',
-  url: 'https://glitchapi.baby-yoda.xyz',
+  url: 'https://glitchapi.js.org/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

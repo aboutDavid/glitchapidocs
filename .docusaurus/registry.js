@@ -23,6 +23,7 @@ export default {
   'ac20c37c': [() => import(/* webpackChunkName: 'ac20c37c' */ "@site/docs/project-get-project-readme.md"), "@site/docs/project-get-project-readme.md", require.resolveWeak("@site/docs/project-get-project-readme.md")],
   'b2b675dd': [() => import(/* webpackChunkName: 'b2b675dd' */ "~blog/default/blog-c06.json"), "~blog/default/blog-c06.json", require.resolveWeak("~blog/default/blog-c06.json")],
   'c4f5d8e4': [() => import(/* webpackChunkName: 'c4f5d8e4' */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
+  'c9dbe283': [() => import(/* webpackChunkName: 'c9dbe283' */ "@site/docs/editor-get-project-terminal.md"), "@site/docs/editor-get-project-terminal.md", require.resolveWeak("@site/docs/editor-get-project-terminal.md")],
   'cb957180': [() => import(/* webpackChunkName: 'cb957180' */ "@site/docs/editor-readme.md"), "@site/docs/editor-readme.md", require.resolveWeak("@site/docs/editor-readme.md")],
   'ccc49370': [() => import(/* webpackChunkName: 'ccc49370' */ "@theme/BlogPostPage"), "@theme/BlogPostPage", require.resolveWeak("@theme/BlogPostPage")],
   'cf18898f': [() => import(/* webpackChunkName: 'cf18898f' */ "~blog/default/blog-tags-glitch-c78.json"), "~blog/default/blog-tags-glitch-c78.json", require.resolveWeak("~blog/default/blog-tags-glitch-c78.json")],

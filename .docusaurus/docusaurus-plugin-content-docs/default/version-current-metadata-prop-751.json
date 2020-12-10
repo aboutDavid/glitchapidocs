@@ -71,7 +71,7 @@
       {
         "collapsed": true,
         "type": "category",
-        "label": "Editor Websocket API",
+        "label": "Editor Endpoints",
         "items": [
           {
             "type": "link",
@@ -82,6 +82,11 @@
             "type": "link",
             "label": "Get realtime logs for a project",
             "href": "/docs/editor/get-realtime-logs-for-a-project"
+          },
+          {
+            "type": "link",
+            "label": "Get project terminal",
+            "href": "/docs/editor/get-project-terminal"
           }
         ]
       }
@@ -89,6 +94,7 @@
   },
   "permalinkToSidebar": {
     "/docs/collection/get-all-projects": "someSidebar",
+    "/docs/editor/get-project-terminal": "someSidebar",
     "/docs/editor/get-realtime-logs-for-a-project": "someSidebar",
     "/docs/editor/readme": "someSidebar",
     "/docs/project/get-project": "someSidebar",

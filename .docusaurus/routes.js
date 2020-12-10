@@ -59,7 +59,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','087'),
+  component: ComponentCreator('/docs','c81'),
   
   routes: [
 {
@@ -70,6 +70,11 @@ export default [
 {
   path: '/docs/collection/get-all-projects',
   component: ComponentCreator('/docs/collection/get-all-projects','f9d'),
+  exact: true,
+},
+{
+  path: '/docs/editor/get-project-terminal',
+  component: ComponentCreator('/docs/editor/get-project-terminal','27b'),
   exact: true,
 },
 {

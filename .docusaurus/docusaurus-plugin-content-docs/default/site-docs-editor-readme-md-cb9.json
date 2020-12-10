@@ -3,7 +3,7 @@
   "id": "editor-readme",
   "isDocsHomePage": false,
   "title": "Editor API README",
-  "description": "You can control the Glitch editor using WebSockets, but these endpoints may change soon.",
+  "description": "You can control the Glitch editor using WebSockets (with the excpetion of the terminal \"API\"), but these endpoints may change soon.",
   "source": "@site/docs/editor-readme.md",
   "slug": "/editor/readme",
   "permalink": "/docs/editor/readme",

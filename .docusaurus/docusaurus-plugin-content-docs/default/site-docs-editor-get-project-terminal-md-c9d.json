@@ -1,0 +1,18 @@
+{
+  "unversionedId": "editor-get-project-terminal",
+  "id": "editor-get-project-terminal",
+  "isDocsHomePage": false,
+  "title": "Get project terminal",
+  "description": "Get the terminal for a project",
+  "source": "@site/docs/editor-get-project-terminal.md",
+  "slug": "/editor/get-project-terminal",
+  "permalink": "/docs/editor/get-project-terminal",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/editor-get-project-terminal.md",
+  "version": "current",
+  "sidebar_label": "Get project terminal",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Get realtime logs for a project",
+    "permalink": "/docs/editor/get-realtime-logs-for-a-project"
+  }
+}

@@ -14,5 +14,9 @@
   "previous": {
     "title": "Editor API README",
     "permalink": "/docs/editor/readme"
+  },
+  "next": {
+    "title": "Get project terminal",
+    "permalink": "/docs/editor/get-project-terminal"
   }
 }
