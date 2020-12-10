@@ -7,7 +7,7 @@
   "source": "@site/docs/user-search.md",
   "slug": "/users/search",
   "permalink": "/docs/users/search",
-  "editUrl": "https://github.com/aboutDavid/glitchapi/edit/master/website/docs/user-search.md",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/website/docs/user-search.md",
   "version": "current",
   "sidebar_label": "Search for user",
   "sidebar": "someSidebar",
