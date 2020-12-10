@@ -65,13 +65,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/aboutDavid/glitchapi/edit/master/website/',
+            'https://github.com/aboutDavid/glitchapidocs/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/aboutDavid/glitchapi/edit/master/website/blog/',
+            'https://github.com/aboutDavid/glitchapidocs/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
