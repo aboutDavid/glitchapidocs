@@ -1,4 +1,25 @@
 {
+  "feature": {
+    "allTagsPath": "/blog/tags",
+    "slug": "feature",
+    "name": "feature",
+    "count": 1,
+    "permalink": "/blog/tags/feature"
+  },
+  "projects": {
+    "allTagsPath": "/blog/tags",
+    "slug": "projects",
+    "name": "projects",
+    "count": 1,
+    "permalink": "/blog/tags/projects"
+  },
+  "privacy": {
+    "allTagsPath": "/blog/tags",
+    "slug": "privacy",
+    "name": "privacy",
+    "count": 1,
+    "permalink": "/blog/tags/privacy"
+  },
   "welcome": {
     "allTagsPath": "/blog/tags",
     "slug": "welcome",

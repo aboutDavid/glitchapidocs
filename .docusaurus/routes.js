@@ -9,7 +9,17 @@ export default [
 },
 {
   path: '/blog',
-  component: ComponentCreator('/blog','632'),
+  component: ComponentCreator('/blog','795'),
+  exact: true,
+},
+{
+  path: '/blog/2020-12-9-glitchs-new-project-privacy-feature',
+  component: ComponentCreator('/blog/2020-12-9-glitchs-new-project-privacy-feature','bed'),
+  exact: true,
+},
+{
+  path: '/blog/2020-12-9-welcome-to-the-blog',
+  component: ComponentCreator('/blog/2020-12-9-welcome-to-the-blog','d33'),
   exact: true,
 },
 {
@@ -23,8 +33,23 @@ export default [
   exact: true,
 },
 {
+  path: '/blog/tags/feature',
+  component: ComponentCreator('/blog/tags/feature','f25'),
+  exact: true,
+},
+{
   path: '/blog/tags/glitch',
   component: ComponentCreator('/blog/tags/glitch','80d'),
+  exact: true,
+},
+{
+  path: '/blog/tags/privacy',
+  component: ComponentCreator('/blog/tags/privacy','ff0'),
+  exact: true,
+},
+{
+  path: '/blog/tags/projects',
+  component: ComponentCreator('/blog/tags/projects','738'),
   exact: true,
 },
 {
@@ -33,13 +58,8 @@ export default [
   exact: true,
 },
 {
-  path: '/blog/welcome-to-the-blog',
-  component: ComponentCreator('/blog/welcome-to-the-blog','354'),
-  exact: true,
-},
-{
   path: '/docs',
-  component: ComponentCreator('/docs','1c9'),
+  component: ComponentCreator('/docs','087'),
   
   routes: [
 {
@@ -50,6 +70,16 @@ export default [
 {
   path: '/docs/collection/get-all-projects',
   component: ComponentCreator('/docs/collection/get-all-projects','f9d'),
+  exact: true,
+},
+{
+  path: '/docs/editor/get-realtime-logs-for-a-project',
+  component: ComponentCreator('/docs/editor/get-realtime-logs-for-a-project','a6c'),
+  exact: true,
+},
+{
+  path: '/docs/editor/readme',
+  component: ComponentCreator('/docs/editor/readme','6df'),
   exact: true,
 },
 {

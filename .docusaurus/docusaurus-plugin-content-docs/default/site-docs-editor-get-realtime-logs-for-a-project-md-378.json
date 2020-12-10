@@ -1,0 +1,18 @@
+{
+  "unversionedId": "editor-get-realtime-logs-for-a-project",
+  "id": "editor-get-realtime-logs-for-a-project",
+  "isDocsHomePage": false,
+  "title": "Get realtime logs for a project",
+  "description": "Get all projects in a collection",
+  "source": "@site/docs/editor-get-realtime-logs-for-a-project.md",
+  "slug": "/editor/get-realtime-logs-for-a-project",
+  "permalink": "/docs/editor/get-realtime-logs-for-a-project",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/editor-get-realtime-logs-for-a-project.md",
+  "version": "current",
+  "sidebar_label": "Get realtime logs for a project",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Editor API README",
+    "permalink": "/docs/editor/readme"
+  }
+}

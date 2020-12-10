@@ -1,0 +1,22 @@
+{
+  "unversionedId": "editor-readme",
+  "id": "editor-readme",
+  "isDocsHomePage": false,
+  "title": "Editor API README",
+  "description": "You can control the Glitch editor using WebSockets, but these endpoints may change soon.",
+  "source": "@site/docs/editor-readme.md",
+  "slug": "/editor/readme",
+  "permalink": "/docs/editor/readme",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/editor-readme.md",
+  "version": "current",
+  "sidebar_label": "Editor API README",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Get all projects in a collection",
+    "permalink": "/docs/collection/get-all-projects"
+  },
+  "next": {
+    "title": "Get realtime logs for a project",
+    "permalink": "/docs/editor/get-realtime-logs-for-a-project"
+  }
+}

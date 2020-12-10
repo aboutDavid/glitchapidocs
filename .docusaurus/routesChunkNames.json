@@ -3,15 +3,28 @@
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/blog-632": {
+  "/blog-795": {
     "component": "a6aa9e1f",
     "sidebar": "0cd0dfa4",
     "items": [
+      {
+        "content": "fc5546ee"
+      },
       {
         "content": "d644d499"
       }
     ],
     "metadata": "b2b675dd"
+  },
+  "/blog/2020-12-9-glitchs-new-project-privacy-feature-bed": {
+    "component": "ccc49370",
+    "sidebar": "0cd0dfa4",
+    "content": "6a18579e"
+  },
+  "/blog/2020-12-9-welcome-to-the-blog-d33": {
+    "component": "ccc49370",
+    "sidebar": "0cd0dfa4",
+    "content": "aab58396"
   },
   "/blog/tags-255": {
     "component": "01a85c17",
@@ -28,6 +41,16 @@
     ],
     "metadata": "6d453d64"
   },
+  "/blog/tags/feature-f25": {
+    "component": "6875c492",
+    "sidebar": "0cd0dfa4",
+    "items": [
+      {
+        "content": "fc5546ee"
+      }
+    ],
+    "metadata": "83201ef4"
+  },
   "/blog/tags/glitch-80d": {
     "component": "6875c492",
     "sidebar": "0cd0dfa4",
@@ -37,6 +60,26 @@
       }
     ],
     "metadata": "cf18898f"
+  },
+  "/blog/tags/privacy-ff0": {
+    "component": "6875c492",
+    "sidebar": "0cd0dfa4",
+    "items": [
+      {
+        "content": "fc5546ee"
+      }
+    ],
+    "metadata": "31175f06"
+  },
+  "/blog/tags/projects-738": {
+    "component": "6875c492",
+    "sidebar": "0cd0dfa4",
+    "items": [
+      {
+        "content": "fc5546ee"
+      }
+    ],
+    "metadata": "0e22a4b2"
   },
   "/blog/tags/welcome-387": {
     "component": "6875c492",
@@ -48,12 +91,7 @@
     ],
     "metadata": "f6ba3702"
   },
-  "/blog/welcome-to-the-blog-354": {
-    "component": "ccc49370",
-    "sidebar": "0cd0dfa4",
-    "content": "aab58396"
-  },
-  "/docs-1c9": {
+  "/docs-087": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -64,6 +102,14 @@
   "/docs/collection/get-all-projects-f9d": {
     "component": "17896441",
     "content": "a8d91388"
+  },
+  "/docs/editor/get-realtime-logs-for-a-project-a6c": {
+    "component": "17896441",
+    "content": "378dd337"
+  },
+  "/docs/editor/readme-6df": {
+    "component": "17896441",
+    "content": "cb957180"
   },
   "/docs/project/get-project-59a": {
     "component": "17896441",

@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/2020-12-9-glitchs-new-project-privacy-feature",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/blog/2020-12-9-glitchs-new-project-privacy-feature.md",
+  "source": "@site/blog/2020-12-9-glitchs-new-project-privacy-feature.md",
+  "description": "Glitch recently decided to make fully private apps meaning you can have private code and the website can be private without making a authentication system.",
+  "date": "2020-12-09T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "feature",
+      "permalink": "/blog/tags/feature"
+    },
+    {
+      "label": "projects",
+      "permalink": "/blog/tags/projects"
+    },
+    {
+      "label": "privacy",
+      "permalink": "/blog/tags/privacy"
+    }
+  ],
+  "title": "Glitch's new project privacy feature",
+  "readingTime": 0.23,
+  "truncated": false,
+  "nextItem": {
+    "title": "Welcome!",
+    "permalink": "/blog/2020-12-9-welcome-to-the-blog"
+  }
+}

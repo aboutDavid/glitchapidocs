@@ -2,8 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Glitch's new project privacy feature",
+      "permalink": "/blog/2020-12-9-glitchs-new-project-privacy-feature"
+    },
+    {
       "title": "Welcome!",
-      "permalink": "/blog/welcome-to-the-blog"
+      "permalink": "/blog/2020-12-9-welcome-to-the-blog"
     }
   ]
 }

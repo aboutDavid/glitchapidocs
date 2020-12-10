@@ -16,6 +16,16 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "editor-get-realtime-logs-for-a-project",
+              "path": "/docs/editor/get-realtime-logs-for-a-project",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "editor-readme",
+              "path": "/docs/editor/readme",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "project-get-project",
               "path": "/docs/project/get-project",
               "sidebar": "someSidebar"

@@ -14,5 +14,9 @@
   "previous": {
     "title": "Get a user by ID",
     "permalink": "/docs/users/get-user-by-id"
+  },
+  "next": {
+    "title": "Editor API README",
+    "permalink": "/docs/editor/readme"
   }
 }

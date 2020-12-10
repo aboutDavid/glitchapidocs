@@ -1,5 +1,5 @@
 ---
-slug: welcome-to-the-blog
+slug: 2020-12-9-welcome-to-the-blog
 title: Welcome!
 author: David
 author_title: David
