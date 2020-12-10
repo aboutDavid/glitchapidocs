@@ -1,0 +1,18 @@
+{
+  "unversionedId": "collection-get-all-projects",
+  "id": "collection-get-all-projects",
+  "isDocsHomePage": false,
+  "title": "Get all projects in a collection",
+  "description": "Get all projects in a collection",
+  "source": "@site/docs/collection-get-all-projects.md",
+  "slug": "/collection/get-all-projects",
+  "permalink": "/docs/collection/get-all-projects",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/collection-get-all-projects.md",
+  "version": "current",
+  "sidebar_label": "Get all projects in a collection",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Get a user by ID",
+    "permalink": "/docs/users/get-user-by-id"
+  }
+}

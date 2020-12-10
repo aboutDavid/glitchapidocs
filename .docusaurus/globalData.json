@@ -11,6 +11,11 @@
           "mainDocId": "readme",
           "docs": [
             {
+              "id": "collection-get-all-projects",
+              "path": "/docs/collection/get-all-projects",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "project-get-project",
               "path": "/docs/project/get-project",
               "sidebar": "someSidebar"

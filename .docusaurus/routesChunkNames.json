@@ -53,13 +53,17 @@
     "sidebar": "0cd0dfa4",
     "content": "aab58396"
   },
-  "/docs-a9d": {
+  "/docs-1c9": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
   "/docs/-8db": {
     "component": "17896441",
     "content": "52e2a80b"
+  },
+  "/docs/collection/get-all-projects-f9d": {
+    "component": "17896441",
+    "content": "a8d91388"
   },
   "/docs/project/get-project-59a": {
     "component": "17896441",

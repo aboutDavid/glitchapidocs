@@ -55,10 +55,23 @@
             "href": "/docs/users/get-user-by-id"
           }
         ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Collection Endpoints",
+        "items": [
+          {
+            "type": "link",
+            "label": "Get all projects in a collection",
+            "href": "/docs/collection/get-all-projects"
+          }
+        ]
       }
     ]
   },
   "permalinkToSidebar": {
+    "/docs/collection/get-all-projects": "someSidebar",
     "/docs/project/get-project": "someSidebar",
     "/docs/project/get-project-readme": "someSidebar",
     "/docs/": "someSidebar",

@@ -13,6 +13,7 @@ export default {
   '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ "~docs/default/version-current-metadata-prop-751.json"), "~docs/default/version-current-metadata-prop-751.json", require.resolveWeak("~docs/default/version-current-metadata-prop-751.json")],
   'a6aa9e1f': [() => import(/* webpackChunkName: 'a6aa9e1f' */ "@theme/BlogListPage"), "@theme/BlogListPage", require.resolveWeak("@theme/BlogListPage")],
   'a7023ddc': [() => import(/* webpackChunkName: 'a7023ddc' */ "~blog/default/blog-tags-tags-4c2.json"), "~blog/default/blog-tags-tags-4c2.json", require.resolveWeak("~blog/default/blog-tags-tags-4c2.json")],
+  'a8d91388': [() => import(/* webpackChunkName: 'a8d91388' */ "@site/docs/collection-get-all-projects.md"), "@site/docs/collection-get-all-projects.md", require.resolveWeak("@site/docs/collection-get-all-projects.md")],
   'aab58396': [() => import(/* webpackChunkName: 'aab58396' */ "@site/blog/2020-12-9-welcome-to-the-blog.md"), "@site/blog/2020-12-9-welcome-to-the-blog.md", require.resolveWeak("@site/blog/2020-12-9-welcome-to-the-blog.md")],
   'ac20c37c': [() => import(/* webpackChunkName: 'ac20c37c' */ "@site/docs/project-get-project-readme.md"), "@site/docs/project-get-project-readme.md", require.resolveWeak("@site/docs/project-get-project-readme.md")],
   'b2b675dd': [() => import(/* webpackChunkName: 'b2b675dd' */ "~blog/default/blog-c06.json"), "~blog/default/blog-c06.json", require.resolveWeak("~blog/default/blog-c06.json")],
