@@ -91,7 +91,7 @@
     ],
     "metadata": "f6ba3702"
   },
-  "/docs-c81": {
+  "/docs-908": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -103,6 +103,10 @@
     "component": "17896441",
     "content": "a8d91388"
   },
+  "/docs/editor/add-custom-domain-e39": {
+    "component": "17896441",
+    "content": "383b2082"
+  },
   "/docs/editor/get-project-terminal-27b": {
     "component": "17896441",
     "content": "c9dbe283"
@@ -110,6 +114,10 @@
   "/docs/editor/get-realtime-logs-for-a-project-a6c": {
     "component": "17896441",
     "content": "378dd337"
+  },
+  "/docs/editor/list-all-custom-domains-aed": {
+    "component": "17896441",
+    "content": "e6e370e4"
   },
   "/docs/editor/readme-6df": {
     "component": "17896441",

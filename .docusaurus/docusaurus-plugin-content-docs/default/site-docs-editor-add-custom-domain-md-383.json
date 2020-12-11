@@ -1,0 +1,22 @@
+{
+  "unversionedId": "editor-add-custom-domain",
+  "id": "editor-add-custom-domain",
+  "isDocsHomePage": false,
+  "title": "Add a custom domain to your project",
+  "description": "Adds a custom domain to your project",
+  "source": "@site/docs/editor-add-custom-domain.md",
+  "slug": "/editor/add-custom-domain",
+  "permalink": "/docs/editor/add-custom-domain",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/editor-add-custom-domain.md",
+  "version": "current",
+  "sidebar_label": "Add a custom domain to your project",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Get project terminal",
+    "permalink": "/docs/editor/get-project-terminal"
+  },
+  "next": {
+    "title": "List all custom domains for a project",
+    "permalink": "/docs/editor/list-all-custom-domains"
+  }
+}

@@ -9,7 +9,7 @@ Get the terminal for a project
 ### Endpoint
 
 ```
-https://api.glitch.com/{project}/console/{persistent_token}
+/{project}/console/{persistent_token}
 ```
 
 ### Endpoint Method

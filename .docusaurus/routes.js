@@ -59,7 +59,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','c81'),
+  component: ComponentCreator('/docs','908'),
   
   routes: [
 {
@@ -73,6 +73,11 @@ export default [
   exact: true,
 },
 {
+  path: '/docs/editor/add-custom-domain',
+  component: ComponentCreator('/docs/editor/add-custom-domain','e39'),
+  exact: true,
+},
+{
   path: '/docs/editor/get-project-terminal',
   component: ComponentCreator('/docs/editor/get-project-terminal','27b'),
   exact: true,
@@ -80,6 +85,11 @@ export default [
 {
   path: '/docs/editor/get-realtime-logs-for-a-project',
   component: ComponentCreator('/docs/editor/get-realtime-logs-for-a-project','a6c'),
+  exact: true,
+},
+{
+  path: '/docs/editor/list-all-custom-domains',
+  component: ComponentCreator('/docs/editor/list-all-custom-domains','aed'),
   exact: true,
 },
 {

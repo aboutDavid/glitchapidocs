@@ -16,6 +16,11 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "editor-add-custom-domain",
+              "path": "/docs/editor/add-custom-domain",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "editor-get-project-terminal",
               "path": "/docs/editor/get-project-terminal",
               "sidebar": "someSidebar"
@@ -23,6 +28,11 @@
             {
               "id": "editor-get-realtime-logs-for-a-project",
               "path": "/docs/editor/get-realtime-logs-for-a-project",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "editor-list-all-custom-domains",
+              "path": "/docs/editor/list-all-custom-domains",
               "sidebar": "someSidebar"
             },
             {

@@ -87,6 +87,16 @@
             "type": "link",
             "label": "Get project terminal",
             "href": "/docs/editor/get-project-terminal"
+          },
+          {
+            "type": "link",
+            "label": "Add a custom domain to your project",
+            "href": "/docs/editor/add-custom-domain"
+          },
+          {
+            "type": "link",
+            "label": "List all custom domains for a project",
+            "href": "/docs/editor/list-all-custom-domains"
           }
         ]
       }
@@ -94,8 +104,10 @@
   },
   "permalinkToSidebar": {
     "/docs/collection/get-all-projects": "someSidebar",
+    "/docs/editor/add-custom-domain": "someSidebar",
     "/docs/editor/get-project-terminal": "someSidebar",
     "/docs/editor/get-realtime-logs-for-a-project": "someSidebar",
+    "/docs/editor/list-all-custom-domains": "someSidebar",
     "/docs/editor/readme": "someSidebar",
     "/docs/project/get-project": "someSidebar",
     "/docs/project/get-project-readme": "someSidebar",

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "editor-list-all-custom-domains",
+  "id": "editor-list-all-custom-domains",
+  "isDocsHomePage": false,
+  "title": "List all custom domains for a project",
+  "description": "This endpoint lists all custom domains for a project",
+  "source": "@site/docs/editor-list-custom-domains.md",
+  "slug": "/editor/list-all-custom-domains",
+  "permalink": "/docs/editor/list-all-custom-domains",
+  "editUrl": "https://github.com/aboutDavid/glitchapidocs/edit/master/docs/editor-list-custom-domains.md",
+  "version": "current",
+  "sidebar_label": "List all custom domains for a project",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Add a custom domain to your project",
+    "permalink": "/docs/editor/add-custom-domain"
+  }
+}

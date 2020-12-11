@@ -6,6 +6,7 @@ export default {
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
   '31175f06': [() => import(/* webpackChunkName: '31175f06' */ "~blog/default/blog-tags-privacy-38b.json"), "~blog/default/blog-tags-privacy-38b.json", require.resolveWeak("~blog/default/blog-tags-privacy-38b.json")],
   '378dd337': [() => import(/* webpackChunkName: '378dd337' */ "@site/docs/editor-get-realtime-logs-for-a-project.md"), "@site/docs/editor-get-realtime-logs-for-a-project.md", require.resolveWeak("@site/docs/editor-get-realtime-logs-for-a-project.md")],
+  '383b2082': [() => import(/* webpackChunkName: '383b2082' */ "@site/docs/editor-add-custom-domain.md"), "@site/docs/editor-add-custom-domain.md", require.resolveWeak("@site/docs/editor-add-custom-domain.md")],
   '4289c88d': [() => import(/* webpackChunkName: '4289c88d' */ "@site/docs/project-get-project.md"), "@site/docs/project-get-project.md", require.resolveWeak("@site/docs/project-get-project.md")],
   '49ea489c': [() => import(/* webpackChunkName: '49ea489c' */ "@site/docs/user-get-user-by-login.md"), "@site/docs/user-get-user-by-login.md", require.resolveWeak("@site/docs/user-get-user-by-login.md")],
   '52e2a80b': [() => import(/* webpackChunkName: '52e2a80b' */ "@site/docs/readme.md"), "@site/docs/readme.md", require.resolveWeak("@site/docs/readme.md")],
@@ -29,5 +30,6 @@ export default {
   'cf18898f': [() => import(/* webpackChunkName: 'cf18898f' */ "~blog/default/blog-tags-glitch-c78.json"), "~blog/default/blog-tags-glitch-c78.json", require.resolveWeak("~blog/default/blog-tags-glitch-c78.json")],
   'd644d499': [() => import(/* webpackChunkName: 'd644d499' */ "@site/blog/2020-12-9-welcome-to-the-blog.md?truncated=true"), "@site/blog/2020-12-9-welcome-to-the-blog.md?truncated=true", require.resolveWeak("@site/blog/2020-12-9-welcome-to-the-blog.md?truncated=true")],
   'd9098f0b': [() => import(/* webpackChunkName: 'd9098f0b' */ "@site/docs/user-search.md"), "@site/docs/user-search.md", require.resolveWeak("@site/docs/user-search.md")],
+  'e6e370e4': [() => import(/* webpackChunkName: 'e6e370e4' */ "@site/docs/editor-list-custom-domains.md"), "@site/docs/editor-list-custom-domains.md", require.resolveWeak("@site/docs/editor-list-custom-domains.md")],
   'f6ba3702': [() => import(/* webpackChunkName: 'f6ba3702' */ "~blog/default/blog-tags-welcome-11d.json"), "~blog/default/blog-tags-welcome-11d.json", require.resolveWeak("~blog/default/blog-tags-welcome-11d.json")],
   'fc5546ee': [() => import(/* webpackChunkName: 'fc5546ee' */ "@site/blog/2020-12-9-glitchs-new-project-privacy-feature.md?truncated=true"), "@site/blog/2020-12-9-glitchs-new-project-privacy-feature.md?truncated=true", require.resolveWeak("@site/blog/2020-12-9-glitchs-new-project-privacy-feature.md?truncated=true")],};

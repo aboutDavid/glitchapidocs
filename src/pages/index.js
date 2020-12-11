@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_newspaper_k72w.svg',
     description: (
       <>
-        Get the latest news from glitch. Like new features, Recent projects made with Glitch, etc.
+        Get the latest news from Glitch. Like new features, Recent projects made with Glitch, etc.
       </>
     ),
   },
