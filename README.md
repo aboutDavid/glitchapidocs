@@ -2,7 +2,7 @@
 
 A website for finding new API endpoints and finding new projects/people in the Glitch community.
 
-URL: [glitchapi.baby-yoda.xyz](https://glitchapi.baby-yoda.xyz)
+URL: [glitchapi.js.org](https://glitchapi.js.org)
 
 **Note:** This is not ran by Glitch, but people in the Glitch community.
 
